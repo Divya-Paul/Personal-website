@@ -1,0 +1,77 @@
+.header{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500px;
+    color: #7562E0;
+    font-size:24px
+    line-height: 28px;
+    text-transform: uppercase;
+  }
+  .link1,.link2,.link3{
+    font-family: Rubik;
+    font-style: normal;
+    font-size:16px;
+    text-decoration: none;
+  }
+  .links,.header{
+    display:inline-block;
+    margin:20px; 
+  }
+  .links{
+    font-color: #00000;
+    word-spacing: 30px;
+    position: absolute;
+    right: 30px;
+  }
+  .name{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height:95px;
+    color: #120644;
+  }
+  .name{
+    position:absolute;
+    width: 213px;
+    height: 190px;
+    left: 211px;
+    top: 311px
+  }
+  .subtitle{
+    position: absolute;
+    width: 237px;
+    height: 42px;
+    left: 211px;
+    top: 530px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    font-size: 18px;
+    line-height: 21px;
+  }
+  img {
+    width: 200px;
+    position: absolute;
+    width: 810px;
+    height: 809px;
+    left: 369px;
+    top: 91px;
+  }
+  .button {
+    background-color: #7562E0;
+    color: #FFFFFF;
+    padding: 16px 48px;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  .button{
+    position: absolute;
+    width: 120px;
+    height: 10px;
+    left: 211px;
+    top: 600px;
+  }
+  
