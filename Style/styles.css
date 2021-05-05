@@ -1,7 +1,6 @@
-*{
-  font-family: 'Rubik', sans-serif;
-}
 .header{
+    font-family: Rubik;
+    font-style: normal;
     font-weight: 500px;
     color: #7562E0;
     font-size:24px
@@ -9,6 +8,8 @@
     text-transform: uppercase;
   }
   .link1,.link2,.link3{
+    font-family: Rubik;
+    font-style: normal;
     font-size:16px;
     text-decoration: none;
   }
@@ -23,6 +24,8 @@
     right: 30px;
   }
   .name{
+    font-family: Rubik;
+    font-style: normal;
     font-weight: 500;
     font-size: 80px;
     line-height:95px;
@@ -41,6 +44,8 @@
     height: 42px;
     left: 211px;
     top: 530px;
+    font-family: Rubik;
+    font-style: normal;
     font-weight: normal;
     color: #000000;
     font-size: 18px;
