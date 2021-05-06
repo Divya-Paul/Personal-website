@@ -54,10 +54,9 @@
   img {
     width: 200px;
     position: absolute;
-    width: 810px;
-    height: 809px;
-    left: 369px;
-    top: 91px;
+    width: 250px;
+    left: 769px;
+    top: 300px;
   }
   .button {
     background-color: #7562E0;
@@ -74,4 +73,15 @@
     left: 211px;
     top: 600px;
   }
+  .icon{
+    position:absolute;
+    left: 300px;
+  }
+  .Li{
+    width :100px;
+    position:absolute;
+    left: 300px; 
+    top:300px;
+  }
+  
   
