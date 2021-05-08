@@ -1,3 +1,7 @@
+body{
+  margin-left: 0%;
+  margin-right: 0%;
+}
 .header{
     font-family: Rubik;
     font-style: normal;
@@ -6,6 +10,10 @@
     font-size:24px
     line-height: 28px;
     text-transform: uppercase;
+  }
+  .header{
+    position: absolute;
+    left: 200px;
   }
   .link1,.link2,.link3{
     font-family: Rubik;
@@ -21,7 +29,7 @@
     font-color: #00000;
     word-spacing: 30px;
     position: absolute;
-    right: 30px;
+    right: 150px;
   }
   .name{
     font-family: Rubik;
@@ -51,12 +59,25 @@
     font-size: 18px;
     line-height: 21px;
   }
+  .circle{
+    background-color: #7562E0;
+    position:absolute;
+    height: 380px;
+    width: 450px;
+    left: 800px;
+    top: 350px;
+    border-radius:50%;
+    border-top-left-radius:100%;
+    border-top-right-radius:0%;
+    border-bottom-right-radius:0%;
+    border-bottom-left-radius:0%;
+  }
   img {
     width: 200px;
     position: absolute;
     width: 250px;
-    left: 769px;
-    top: 300px;
+    left: 768px;
+    top: 318px;
   }
   .button {
     background-color: #7562E0;
@@ -83,7 +104,7 @@
   position: relative;
   width: 7px;
   left: 1020px;
-  top: 350px;
+  top: 400px;
 }
 
 /* Add a hover effect if you want */
@@ -95,17 +116,14 @@
 
 /* Facebook */
 .fa-facebook {
-  background: #3B5998;
   color: white;
 }
 
 /* Twitter */
 .fa-twitter {
-  background: #55ACEE;
   color: white;
 }
 /* Linkedin */
 .fa-linkedin{
-  background: #55ACEE;
   color: white;
 }
