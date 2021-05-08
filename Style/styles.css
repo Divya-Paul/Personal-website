@@ -81,9 +81,8 @@
   text-align: center;
   text-decoration: none;
   position: relative;
-  align-items: baseline;
-  width: 20px;
-  left: 1000px;
+  width: 7px;
+  left: 1020px;
   top: 350px;
 }
 
@@ -109,5 +108,4 @@
 .fa-linkedin{
   background: #55ACEE;
   color: white;
-  
-  
+}
